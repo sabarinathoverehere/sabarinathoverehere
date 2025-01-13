@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/sabarinathoverehere)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/sabarinathoverehere)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/sabarinath-am-9bb522250/)
 
 Thanks for visiting my profile! Have a great day! 😊
