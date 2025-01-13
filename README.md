@@ -1,0 +1,31 @@
+# Hi there, I'm Sabarinath! 👋
+
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. Here's a bit about me:
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Linux** and **Networking**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 📫 How to reach me: [sabarinathm22@gmail.com](mailto:sabarinathm22@gmail.com)
+- ⚡ Fun fact: I love exploring new places and trying out different cuisines!
+
+## 🛠️ Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+
+## 📈 GitHub Stats
+
+![Sabarinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabarinathoverehere&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/sabarinathoverehere)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/sabarinathoverehere)
+
+Thanks for visiting my profile! Have a great day! 😊
