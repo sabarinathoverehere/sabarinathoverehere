@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🛠️ Languages and Tools
 
-![Java]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" alt="Java"/>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
