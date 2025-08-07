@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. Here's a bit about me:
 
 ## 🚀 About Me
-
+- 🔭 Currently learning **Java Spring Boot**, REST APIs, and MySQL
 - 🌱 I’m currently learning **Linux** and **Networking**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 📫 How to reach me: [sabarinathm22@gmail.com](mailto:sabarinathm22@gmail.com)
+- 📫 How to reach me: [amsabarinath.dev@gmail.com](mailto:amsabarinath.dev@gmail.com)
 - ⚡ Fun fact: I love exploring new places and trying out different cuisines!
 
 ## 🛠️ Languages and Tools
