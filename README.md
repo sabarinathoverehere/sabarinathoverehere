@@ -1,4 +1,4 @@
-# Hi there, I'm Sabarinath! 👋
+# Sabarinath 
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. Here's a bit about me:
 
