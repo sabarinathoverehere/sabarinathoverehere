@@ -4,12 +4,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🚀 About Me
 - 🔭 Currently learning **Java Spring Boot**, REST APIs, and MySQL
-- 🌱 I’m currently learning **Linux** and **Networking**
+- 🐧 Gaining experience in **Linux**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 📫 How to reach me: [amsabarinath.dev@gmail.com](mailto:amsabarinath.dev@gmail.com)
+- 
 - ⚡ Fun fact: I love exploring new places and trying out different cuisines!
 
 ## 🛠️ Languages and Tools
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"/>](https://www.linkedin.com/in/your-link/)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
