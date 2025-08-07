@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📈 GitHub Stats
 
 ![Sabarinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabarinathoverehere&show_icons=true&theme=radical)
+![Sabarinath's Leetcode Stats](https://leetcode-badge-sage.vercel.app/badge/{your_leetcode_username}?theme={light|dark|neutral}&bgColor={hex_val})
 
 ## 📫 Connect with Me
 
