@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🛠️ Languages and Tools
 
-![Java](https://img.shields.io/badge/-Java-000?logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?logo=CoffeeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
