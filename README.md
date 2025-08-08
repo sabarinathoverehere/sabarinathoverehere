@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. Here's a bit about me:
 
-## 🚀 About Me
 - 🔭 Currently learning **Java Spring Boot**, REST APIs, and MySQL
 - 🐧 Gaining experience in **Linux**
 - 👯 I’m looking to collaborate on **open-source projects**
