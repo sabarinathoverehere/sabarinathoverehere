@@ -1,5 +1,5 @@
 # Sabarinath 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. Here's a bit about me:
 
 - 🔭 Currently learning **Java Spring Boot**, REST APIs, and MySQL
