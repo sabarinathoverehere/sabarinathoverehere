@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 📫 How to reach me: [amsabarinath.dev@gmail.com](mailto:amsabarinath.dev@gmail.com)
 - ⚡ Fun fact: I love exploring new places and trying out different cuisines!
 
+
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="20" alt="Java"/>![Java](https://img.shields.io/badge/-Java-000?logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
