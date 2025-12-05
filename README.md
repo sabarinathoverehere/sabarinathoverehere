@@ -19,9 +19,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
 ### Stats
-| GitHub                                                                                                                                             
-| -------------------------------------------------------------------------------------------------------------------------------------------------- 
-| ![Sabarinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarinathoverehere&show_icons=true&theme=transparent&hide_border=true) 
+
+| Most Used Languages |
+|---------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathoverehere&layout=compact&theme=transparent&hide_border=true) |
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/sabarinath-am-9bb522250/)
 
