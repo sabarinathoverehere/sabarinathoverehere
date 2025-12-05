@@ -18,13 +18,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
-### Stats
 
-### Stats
+
+#### Stats
 
 | Most Used Languages |
 |---------------------|
-| ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=sabarinathoverehere&theme=github_dark) |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=sabarinathoverehere&theme=github_dark" alt="Most Used Languages" /> |
 
 
 
