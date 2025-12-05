@@ -20,9 +20,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ### Stats
 
+### Stats
+
 | Most Used Languages |
 |---------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathoverehere&layout=compact&theme=transparent&hide_border=true) |
+| ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=sabarinathoverehere&theme=github_dark) |
+
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/sabarinath-am-9bb522250/)
