@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sabarinathoverehere&theme=dark"></td><td width="50%" align="center">
 <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sabarinathoverehere&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
-<img src="https://leetcard.jacoblin.cool/sabarinatham?theme=dark&ext=heatmap&font=default&size=small"></td></tr></tbody></table>
+<img src="https://leetcard.jacoblin.cool/sabarinatham?theme=dark&ext=heatmap&font=default" width="400"></td></tr></tbody></table>
 
 
 
