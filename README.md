@@ -20,11 +20,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## GitHub Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sabarinathoverehere&theme=dracula&show_icons=true&count_private=true">
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sabarinathoverehere&theme=dracula"></td><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sabarinathoverehere&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
-<img src="https://leetcard.jacoblin.cool/sabarinatham?theme=dark&ext=heatmap&font=default" width="400" height="200"></td></tr></tbody></table>
+<table><tbody><tr border="none">
+<td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sabarinathoverehere&theme=dracula&show_icons=true&count_private=true" style="margin-bottom:10px">
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sabarinathoverehere&theme=dracula">
+</td>
+<td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sabarinathoverehere&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=6" style="margin-bottom:10px">
+<img src="https://leetcard.jacoblin.cool/sabarinatham?theme=dracula&ext=heatmap&font=default" width="350" height="180">
+</td>
+</tr></tbody></table>
+
 
 
 
