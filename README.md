@@ -1,6 +1,6 @@
 # Sabarinath 
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in Backend development using Java, open-source contributions, and learning new technologies. Here's a bit about me:
 
 - 🔭 Currently learning **Java Spring Boot**, REST APIs, and MySQL
 - 🐧 Gaining experience in **Linux**
