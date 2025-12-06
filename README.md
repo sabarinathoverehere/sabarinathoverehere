@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sabarinathoverehere&theme=default&show_icons=true&count_private=true">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sabarinathoverehere&theme=soft dark&show_icons=true&count_private=true">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sabarinathoverehere&theme=default"></td><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sabarinathoverehere&theme=default&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
-<img src="https://leetcard.jacoblin.cool/sabarinatham?theme=default&ext=heatmap&font=default" width="400" height="200"></td></tr></tbody></table>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sabarinathoverehere&theme=soft dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sabarinathoverehere&theme=soft dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+<img src="https://leetcard.jacoblin.cool/sabarinatham?theme=soft dark&ext=heatmap&font=default" width="400" height="200"></td></tr></tbody></table>
 
 
 
