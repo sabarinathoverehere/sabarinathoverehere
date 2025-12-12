@@ -12,7 +12,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## My Skills
 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff">
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
